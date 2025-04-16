@@ -4,5 +4,5 @@ mybody.innerHTML+=`
 <li id="level">
 </li>
 `;
-mybody.appendChild(mybody);
-alert("The level of the element is:{n}")
+mybody.appendChild(level);
+alert("The level of the element is:{n}");
