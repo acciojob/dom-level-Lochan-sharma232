@@ -1,6 +1,6 @@
 var mymsg=document.getElementById("level");
 var level=0;
-while(msg.parentNode){
+while(mymsg.parentNode){
 	level++;
 
 msg=msg.parentNode;
