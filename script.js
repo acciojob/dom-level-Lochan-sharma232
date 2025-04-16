@@ -5,5 +5,5 @@ while(mymsg.parentNode){
 
 mymsg=mymsg.parentNode;
 }
-var display ="The level of the element is"+level;
+var display ="The level of the element is"  +level;
 alert(display);
